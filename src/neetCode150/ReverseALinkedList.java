@@ -34,12 +34,13 @@ public class ReverseALinkedList {
         while(current != null){
             next = current.next; //updating for the current loop
 
-            if (prev == null){ //case for the first node
-                current.next = null; 
-            }
-            else{
-                current.next = prev;
-            }
+            //if (prev == null){ //case for the first node
+            //    current.next = null; 
+            //}
+            //else{
+            //    current.next = prev;
+            //}
+            current.next = prev; //no special case for first item
 
             //updated for the next loop
             prev = current; // when loop ends this will be the new head
