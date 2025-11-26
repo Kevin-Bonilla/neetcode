@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcab6190-e24c-4e04-b798-612d8c911bac" name="Changes" comment="ThreeSum solution added">
-      <change afterPath="$PROJECT_DIR$/src/neetCode150/EncodeDecodeStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="fcab6190-e24c-4e04-b798-612d8c911bac" name="Changes" comment="WIP on EncodeDecodeStrings solution">
+      <change beforePath="$PROJECT_DIR$/src/neetCode150/EncodeDecodeStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode150/EncodeDecodeStrings.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,13 +101,22 @@
       <option name="project" value="LOCAL" />
       <updated>1764039808283</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="WIP on EncodeDecodeStrings solution">
+      <option name="closed" value="true" />
+      <created>1764128974750</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1764128974750</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="DiameterOfBinaryTree solution added" />
     <MESSAGE value="ThreeSum solution added" />
-    <option name="LAST_COMMIT_MESSAGE" value="ThreeSum solution added" />
+    <MESSAGE value="WIP on EncodeDecodeStrings solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="WIP on EncodeDecodeStrings solution" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

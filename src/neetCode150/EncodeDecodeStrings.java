@@ -33,12 +33,15 @@ public class EncodeDecodeStrings {
         // gets tricky bc delimiter can be in the string so maybe we need to keep track of how long a string is as well as the delimiter?
         // the method that we can use is <stringLength>#<string> and append these all to one string
 
+        StringBuilder encodedString = new StringBuilder();
+
         for (String s : strs){
             int length = s.length();
-
+            String encodedSegment = length + "#" + s;
+            encodedString.append(encodedSegment);
         }
 
-
+        return encodedString.toString();
     }
 
     public List<String> decode(String str) {
