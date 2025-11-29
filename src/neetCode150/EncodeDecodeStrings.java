@@ -25,6 +25,8 @@ Constraints:
 
  */
 
+import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class EncodeDecodeStrings {
@@ -46,7 +48,23 @@ public class EncodeDecodeStrings {
 
     public List<String> decode(String str) {
         // we need to take that single string and change it back to the list of strings
+        List<String> decodedList = new ArrayList<>();
 
+        while(!str.isEmpty()){
+            // look at the beginning of the string for the length of the next String we enter into the decoded list
+            int i = 0;
+            while (str.charAt(i) != '#'){
+                i++;
+            }
 
+            int length = Integer.parseInt(str.substring(0,i));
+            int startIndexForString = i + 1;
+            String strToAdd = str.substring(startIndexForString, startIndexForString+length);
+            decodedList.add(strToAdd);
+
+            str = str.substring(startIndexForString+length);
+        }
+
+        return decodedList;
     }
 }

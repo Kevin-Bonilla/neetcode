@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fcab6190-e24c-4e04-b798-612d8c911bac" name="Changes" comment="WIP on EncodeDecodeStrings solution">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/neetCode150/EncodeDecodeStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode150/EncodeDecodeStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/neetCode150/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode150/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,19 +124,19 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/neetCode150/ThreeSum.java</url>
-          <line>77</line>
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/src/neetCode150/EncodeDecodeStrings.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/neetCode150/ThreeSum.java</url>
-          <line>84</line>
-          <option name="timeStamp" value="3" />
+          <url>file://$PROJECT_DIR$/src/neetCode150/main.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/neetCode150/ThreeSum.java</url>
-          <line>89</line>
-          <option name="timeStamp" value="4" />
+          <url>file://$PROJECT_DIR$/src/neetCode150/EncodeDecodeStrings.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
