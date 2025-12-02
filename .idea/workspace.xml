@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcab6190-e24c-4e04-b798-612d8c911bac" name="Changes" comment="WIP on EncodeDecodeStrings solution">
-      <change afterPath="$PROJECT_DIR$/src/neetCode150/LinkedListCycleDetection.java" afterDir="false" />
+    <list default="true" id="fcab6190-e24c-4e04-b798-612d8c911bac" name="Changes" comment="LinkedListCycleDetection solution added">
+      <change afterPath="$PROJECT_DIR$/src/neetCode150/WordSearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,14 +110,23 @@
       <option name="project" value="LOCAL" />
       <updated>1764128974750</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="LinkedListCycleDetection solution added">
+      <option name="closed" value="true" />
+      <created>1764542355867</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1764542355867</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="DiameterOfBinaryTree solution added" />
     <MESSAGE value="ThreeSum solution added" />
     <MESSAGE value="WIP on EncodeDecodeStrings solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="WIP on EncodeDecodeStrings solution" />
+    <MESSAGE value="LinkedListCycleDetection solution added" />
+    <option name="LAST_COMMIT_MESSAGE" value="LinkedListCycleDetection solution added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
