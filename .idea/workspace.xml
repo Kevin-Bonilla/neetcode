@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcab6190-e24c-4e04-b798-612d8c911bac" name="Changes" comment="LinkedListCycleDetection solution added">
-      <change afterPath="$PROJECT_DIR$/src/neetCode150/WordSearch.java" afterDir="false" />
+    <list default="true" id="fcab6190-e24c-4e04-b798-612d8c911bac" name="Changes" comment="WIP WordSearch java solution">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/neetCode150/WordSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode150/WordSearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764542355867</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="WIP WordSearch java solution">
+      <option name="closed" value="true" />
+      <created>1764641746191</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1764641746191</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -126,7 +134,8 @@
     <MESSAGE value="ThreeSum solution added" />
     <MESSAGE value="WIP on EncodeDecodeStrings solution" />
     <MESSAGE value="LinkedListCycleDetection solution added" />
-    <option name="LAST_COMMIT_MESSAGE" value="LinkedListCycleDetection solution added" />
+    <MESSAGE value="WIP WordSearch java solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="WIP WordSearch java solution" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
