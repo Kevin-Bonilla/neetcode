@@ -37,6 +37,7 @@ public class main {
                 {'.','.','4','.','.','.','.','.','.'}
         };
         ValidSudoku validSudokuClass = new ValidSudoku();
-        validSudokuClass.isValidSudoku(board);
+        boolean isValid = validSudokuClass.isValidSudoku(board);
+
     }
 }

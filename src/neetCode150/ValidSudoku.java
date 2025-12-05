@@ -119,17 +119,16 @@ public class ValidSudoku {
     }
 
     public boolean squareChecker(char[][] board){
-        // HashSet<Character> visitedChars = new HashSet<Character>();
+        HashSet<Character> visitedChars = new HashSet<Character>();
 
         // outer two loops are for defining which 3x3 box we are checking
-        for(int boxRow = 0; boxRow < board.length; boxRow = boxRow + 3){
-            for (int boxCol = 0; boxCol < board[0].length; boxCol = boxCol + 3){
+        for(int boxRow = 0; boxRow < 7; boxRow = boxRow + 3){
+            for (int boxCol = 0; boxCol < 7; boxCol = boxCol + 3){
                 // inner two for loops are for actually checking the box that we have defined
-                HashSet<Character> visitedChars = new HashSet<Character>();
 
                 for (int miniBoxRow = 0; miniBoxRow < 3; miniBoxRow++){
                     for (int miniBoxCol = 0; miniBoxCol < 3; miniBoxCol++){
-                        char currentChar = board[miniBoxRow][miniBoxCol];
+                        char currentChar = board[miniBoxRow + boxRow][miniBoxCol + boxCol];
 
                         if (currentChar == '.'){
                             continue;
@@ -142,6 +141,7 @@ public class ValidSudoku {
                         }
                     }
                 }
+                visitedChars = new HashSet<Character>();
 
             }
         }
