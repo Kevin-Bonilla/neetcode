@@ -24,6 +24,19 @@ public class main {
         String encodedString = edstringsClass.encode(inputStringList);
         List<String> decodedList = edstringsClass.decode(encodedString);
 
-
+        // testing valid sudoku
+        char[][] board = {
+                {'.','.','.','.','5','.','.','1','.'},
+                {'.','4','.','3','.','.','.','.','.'},
+                {'.','.','.','.','.','3','.','.','1'},
+                {'8','.','.','.','.','.','.','2','.'},
+                {'.','.','2','.','7','.','.','.','.'},
+                {'.','1','5','.','.','.','.','.','.'},
+                {'.','.','.','.','.','2','.','.','.'},
+                {'.','2','.','9','.','.','.','.','.'},
+                {'.','.','4','.','.','.','.','.','.'}
+        };
+        ValidSudoku validSudokuClass = new ValidSudoku();
+        validSudokuClass.isValidSudoku(board);
     }
 }
