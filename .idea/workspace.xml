@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="414ea679-8d16-4b6c-a2b5-aee6463f59ef" name="Changes" comment="ValidSudoku solution finished">
-      <change afterPath="$PROJECT_DIR$/src/CoreSkills/DynamicArray.java" afterDir="false" />
+    <list default="true" id="414ea679-8d16-4b6c-a2b5-aee6463f59ef" name="Changes" comment="Design singly linked list problem WIP">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreSkills/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreSkills/LinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +116,23 @@
       <option name="project" value="LOCAL" />
       <updated>1764900653969</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Design Dynamic Array solution added">
+      <option name="closed" value="true" />
+      <created>1765249028518</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1765249028518</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Design singly linked list problem WIP">
+      <option name="closed" value="true" />
+      <created>1765249144263</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1765249144263</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -124,7 +140,9 @@
     <MESSAGE value="ValidSudoku solution WIP" />
     <MESSAGE value="ValidSudoku solution WIP pt2" />
     <MESSAGE value="ValidSudoku solution finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="ValidSudoku solution finished" />
+    <MESSAGE value="Design Dynamic Array solution added" />
+    <MESSAGE value="Design singly linked list problem WIP" />
+    <option name="LAST_COMMIT_MESSAGE" value="Design singly linked list problem WIP" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
