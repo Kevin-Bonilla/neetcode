@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="414ea679-8d16-4b6c-a2b5-aee6463f59ef" name="Changes" comment="Design singly linked list problem WIP">
+    <list default="true" id="414ea679-8d16-4b6c-a2b5-aee6463f59ef" name="Changes" comment="Design singly linked list problem WIP pt 2 maybe">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CoreSkills/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreSkills/LinkedList.java" afterDir="false" />
     </list>
@@ -132,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765249144263</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Design singly linked list problem WIP pt 2 maybe">
+      <option name="closed" value="true" />
+      <created>1765333386961</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1765333386961</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -142,7 +150,8 @@
     <MESSAGE value="ValidSudoku solution finished" />
     <MESSAGE value="Design Dynamic Array solution added" />
     <MESSAGE value="Design singly linked list problem WIP" />
-    <option name="LAST_COMMIT_MESSAGE" value="Design singly linked list problem WIP" />
+    <MESSAGE value="Design singly linked list problem WIP pt 2 maybe" />
+    <option name="LAST_COMMIT_MESSAGE" value="Design singly linked list problem WIP pt 2 maybe" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

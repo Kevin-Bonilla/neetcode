@@ -103,11 +103,14 @@ public class LinkedList {
 
     public void insertTail(int val) {
         Node newTail = new Node(val);
-        this.tail.next = newTail;
-        this.tail = newTail;
-        // if only node in the linked list
         if (size == 0){
+            // if only node in the linked list
+            this.tail = newTail;
             this.head = tail;
+        }
+        else{
+            this.tail.next = newTail;
+            this.tail = newTail;
         }
         this.size++;
     }
@@ -115,8 +118,8 @@ public class LinkedList {
     public boolean remove(int index) {
         // bool remove(int i) will remove the ith node (0-indexed). If the index is out of bounds, return false, otherwise return true.
 
-        // if the linked list is empty
-        if (head == null){
+        // if the linked list is empty, or index is out of bounds
+        if (head == null || index < 0 || index >= size){
             return false;
         }
 
@@ -130,13 +133,20 @@ public class LinkedList {
             return true;
         }
 
-        // TODO: implement this correctly
         // traverse the linked list to the index
         int indexCounter = 0;
+        int indexBefore = index - 1;
         Node currentNode = head;
         while(currentNode != null){
-            if (indexCounter == index){
-                return currentNode.val;
+            if (indexCounter == indexBefore){
+                // setting node before deletion to have node after deletion as its next
+                currentNode.next = currentNode.next.next;
+                if (index == size - 1){
+                    // if we are deleting the tail
+                    tail = currentNode;
+                }
+                this.size--;
+                return true;
             }
 
             currentNode = currentNode.next;
@@ -144,10 +154,18 @@ public class LinkedList {
         }
 
         // if we went out of bounds and exited the while loop before finding the passed in index
-        return -1;
+        return false;
     }
 
     public ArrayList<Integer> getValues() {
+        ArrayList<Integer> returnList = new ArrayList<Integer>(size);
 
+        Node currentNode = head;
+        while(currentNode != null){
+            returnList.add(currentNode.val);
+            currentNode = currentNode.next;
+        }
+
+        return returnList;
     }
 }
