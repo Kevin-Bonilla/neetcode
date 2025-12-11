@@ -50,10 +50,21 @@ In this example, you can observe that the pairs with key=3 ("cat" and "bird") ma
 //     }
 // }
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class InsertionSort {
     public List<List<Pair>> insertionSort(List<Pair> pairs) {
+        List<List<Pair>> insertionSortList = new ArrayList<>();
 
+        // the way that insertion sort works
+        // we have initial element and we consider that sorted
+        // we will work from left to right
+        // if i is bigger than i - 1 we leave it where it is
+        // if i is smaller than i - 1 we need to search for where to put it to consider it sorted
+        // you'll keep swapping i and i-1 until i is in the correct place
+
+
+        return  insertionSortList;
     }
 }

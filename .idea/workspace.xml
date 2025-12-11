@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="414ea679-8d16-4b6c-a2b5-aee6463f59ef" name="Changes" comment="Design singly linked list problem solution and submitted">
-      <change afterPath="$PROJECT_DIR$/src/CoreSkills/InsertionSort.java" afterDir="false" />
+    <list default="true" id="414ea679-8d16-4b6c-a2b5-aee6463f59ef" name="Changes" comment="Starting on insertion sort solution">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreSkills/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreSkills/InsertionSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765417568748</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Starting on insertion sort solution">
+      <option name="closed" value="true" />
+      <created>1765417764531</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1765417764531</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -159,7 +168,8 @@
     <MESSAGE value="Design singly linked list problem WIP" />
     <MESSAGE value="Design singly linked list problem WIP pt 2 maybe" />
     <MESSAGE value="Design singly linked list problem solution and submitted" />
-    <option name="LAST_COMMIT_MESSAGE" value="Design singly linked list problem solution and submitted" />
+    <MESSAGE value="Starting on insertion sort solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Starting on insertion sort solution" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
