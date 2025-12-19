@@ -4,43 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="414ea679-8d16-4b6c-a2b5-aee6463f59ef" name="Changes" comment="Starting on insertion sort solution">
-      <change afterPath="$PROJECT_DIR$/src/neetCode250/ConcatenationOfArray.java" afterDir="false" />
+    <list default="true" id="414ea679-8d16-4b6c-a2b5-aee6463f59ef" name="Changes" comment="ConcatenationOfArray solution added and package renamed">
+      <change afterPath="$PROJECT_DIR$/src/neetCode250/LongestCommonPrefix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/neetCode150/AnagramGroups.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode250/AnagramGroups.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/neetCode150/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode250/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/neetCode150/BuyandSellCrypto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode250/BuyandSellCrypto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/neetCode150/ClimbingStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode250/ClimbingStairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/neetCode150/DiameterOfBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode250/DiameterOfBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/neetCode150/EncodeDecodeStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode250/EncodeDecodeStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/neetCode150/Interval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode250/Interval.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/neetCode150/InvertaBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode250/InvertaBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/neetCode150/IsAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode250/IsAnagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/neetCode150/IsPalidrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode250/IsPalidrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/neetCode150/JumpGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode250/JumpGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/neetCode150/KthLargestIntegerinaStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode250/KthLargestIntegerinaStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/neetCode150/LastStoneWeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode250/LastStoneWeight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/neetCode150/LinkedListCycleDetection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode250/LinkedListCycleDetection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/neetCode150/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode250/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/neetCode150/MaximumDepthOfBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode250/MaximumDepthOfBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/neetCode150/MaximumSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode250/MaximumSubarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/neetCode150/MeetingSchedule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode250/MeetingSchedule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/neetCode150/MergeTwoSortedLinkedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode250/MergeTwoSortedLinkedLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/neetCode150/NonCyclicalNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode250/NonCyclicalNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/neetCode150/NumberOfOneBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode250/NumberOfOneBits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/neetCode150/PlusOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode250/PlusOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/neetCode150/ProductsOfArrayExceptSelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode250/ProductsOfArrayExceptSelf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/neetCode150/ReverseALinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode250/ReverseALinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/neetCode150/SingleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode250/SingleNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/neetCode150/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode250/ThreeSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/neetCode150/TopKFrequentElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode250/TopKFrequentElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/neetCode150/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode250/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/neetCode150/TwoIntegerSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode250/TwoIntegerSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/neetCode150/TwoIntegerSumII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode250/TwoIntegerSumII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/neetCode150/ValidSudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode250/ValidSudoku.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/neetCode150/ValidateParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode250/ValidateParentheses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/neetCode150/WordSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode250/WordSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/neetCode150/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode250/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,7 +164,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765419376670</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="ConcatenationOfArray solution added and package renamed">
+      <option name="closed" value="true" />
+      <created>1766109534209</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1766109534209</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -211,7 +185,8 @@
     <MESSAGE value="Design singly linked list problem WIP pt 2 maybe" />
     <MESSAGE value="Design singly linked list problem solution and submitted" />
     <MESSAGE value="Starting on insertion sort solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="Starting on insertion sort solution" />
+    <MESSAGE value="ConcatenationOfArray solution added and package renamed" />
+    <option name="LAST_COMMIT_MESSAGE" value="ConcatenationOfArray solution added and package renamed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
