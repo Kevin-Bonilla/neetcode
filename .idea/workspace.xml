@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="414ea679-8d16-4b6c-a2b5-aee6463f59ef" name="Changes" comment="LongestCommonPrefix solution WIP">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/neetCode250/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode250/LongestCommonPrefix.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Kevin-Bonilla&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Kevin-Bonilla/neetcode.git&quot;,
+    &quot;accountId&quot;: &quot;1f328656-ef34-4a88-9fae-c3be93d38e20&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="36JPSxXDAI7P5eieOPPl0XUzBwq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.main.executor&quot;: &quot;Debug&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;delta&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kevinbonilla/Documents/GitHub/neetcode&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="neetCode250.main" />
+      <module name="neetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="neetCode250.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="414ea679-8d16-4b6c-a2b5-aee6463f59ef" name="Changes" comment="" />
+      <created>1764721705861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764721705861</updated>
+    </task>
+    <task id="LOCAL-00001" summary="ProductsOfArrayExceptSelf solution added">
+      <option name="closed" value="true" />
+      <created>1764725882038</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1764725882038</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ValidSudoku solution WIP">
+      <option name="closed" value="true" />
+      <created>1764814118474</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1764814118475</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ValidSudoku solution WIP pt2">
+      <option name="closed" value="true" />
+      <created>1764900050507</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1764900050507</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ValidSudoku solution finished">
+      <option name="closed" value="true" />
+      <created>1764900653969</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1764900653969</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Design Dynamic Array solution added">
+      <option name="closed" value="true" />
+      <created>1765249028518</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1765249028518</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Design singly linked list problem WIP">
+      <option name="closed" value="true" />
+      <created>1765249144263</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1765249144263</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Design singly linked list problem WIP pt 2 maybe">
+      <option name="closed" value="true" />
+      <created>1765333386961</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1765333386961</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Design singly linked list problem solution and submitted">
+      <option name="closed" value="true" />
+      <created>1765417568748</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1765417568748</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Starting on insertion sort solution">
+      <option name="closed" value="true" />
+      <created>1765417764531</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1765417764531</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Starting on insertion sort solution">
+      <option name="closed" value="true" />
+      <created>1765419376670</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1765419376670</updated>
+    </task>
+    <task id="LOCAL-00011" summary="ConcatenationOfArray solution added and package renamed">
+      <option name="closed" value="true" />
+      <created>1766109534209</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1766109534209</updated>
+    </task>
+    <task id="LOCAL-00012" summary="LongestCommonPrefix solution WIP">
+      <option name="closed" value="true" />
+      <created>1766111159602</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1766111159602</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ProductsOfArrayExceptSelf solution added" />
+    <MESSAGE value="ValidSudoku solution WIP" />
+    <MESSAGE value="ValidSudoku solution WIP pt2" />
+    <MESSAGE value="ValidSudoku solution finished" />
+    <MESSAGE value="Design Dynamic Array solution added" />
+    <MESSAGE value="Design singly linked list problem WIP" />
+    <MESSAGE value="Design singly linked list problem WIP pt 2 maybe" />
+    <MESSAGE value="Design singly linked list problem solution and submitted" />
+    <MESSAGE value="Starting on insertion sort solution" />
+    <MESSAGE value="ConcatenationOfArray solution added and package renamed" />
+    <MESSAGE value="LongestCommonPrefix solution WIP" />
+    <option name="LAST_COMMIT_MESSAGE" value="LongestCommonPrefix solution WIP" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/neetCode250/ValidSudoku.java</url>
+          <line>124</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/neetCode250/main.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/neetCode250/ValidSudoku.java</url>
+          <line>153</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
