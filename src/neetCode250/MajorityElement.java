@@ -31,6 +31,7 @@ import java.util.HashMap;
 
 public class MajorityElement {
 
+    // my solution
     public int majorityElement(int[] nums) {
         // this is the number that we are looking for, once we find this many occurances of a num we can return it as the majority
         int majoritySize;
@@ -65,4 +66,18 @@ public class MajorityElement {
         return nums[0];
     }
 
+    // most optimal solution after looking to ai for some help
+    public int majorityElementMostOptimal(int[] nums){
+        int candidate = 0;
+        int count = 0;
+
+        for (int num : nums) {
+            if (count == 0) {
+                candidate = num;
+            }
+            count += (num == candidate) ? 1 : -1;
+        }
+
+        return candidate;
+    }
 }
