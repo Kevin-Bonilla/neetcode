@@ -4,39 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="414ea679-8d16-4b6c-a2b5-aee6463f59ef" name="Changes" comment="LongestCommonPrefix solution WIP">
-      <change afterPath="$PROJECT_DIR$/src/neetCode250/RemoveElement.java" afterDir="false" />
+    <list default="true" id="414ea679-8d16-4b6c-a2b5-aee6463f59ef" name="Changes" comment="removeElement java solution">
+      <change afterPath="$PROJECT_DIR$/src/neetCode250/MajorityElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/neetCode150/AnagramGroups.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode150/AnagramGroups.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/neetCode150/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode150/BinarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/neetCode150/BuyandSellCrypto.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode150/BuyandSellCrypto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/neetCode150/ClimbingStairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode150/ClimbingStairs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/neetCode150/DiameterOfBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode150/DiameterOfBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/neetCode150/EncodeDecodeStrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode150/EncodeDecodeStrings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/neetCode150/Interval.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode150/Interval.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/neetCode150/InvertaBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode150/InvertaBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/neetCode150/IsAnagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode150/IsAnagram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/neetCode150/IsPalidrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode150/IsPalidrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/neetCode150/JumpGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode150/JumpGame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/neetCode150/KthLargestIntegerinaStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode150/KthLargestIntegerinaStream.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/neetCode150/LastStoneWeight.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode150/LastStoneWeight.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/neetCode150/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode150/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/neetCode150/MaximumDepthOfBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode150/MaximumDepthOfBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/neetCode150/MaximumSubarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode150/MaximumSubarray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/neetCode150/MeetingSchedule.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode150/MeetingSchedule.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/neetCode150/MergeTwoSortedLinkedLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode150/MergeTwoSortedLinkedLists.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/neetCode150/NonCyclicalNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode150/NonCyclicalNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/neetCode150/NumberOfOneBits.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode150/NumberOfOneBits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/neetCode150/PlusOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode150/PlusOne.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/neetCode150/ReverseALinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode150/ReverseALinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/neetCode150/SingleNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode150/SingleNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/neetCode150/ThreeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode150/ThreeSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/neetCode150/TopKFrequentElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode150/TopKFrequentElements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/neetCode150/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode150/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/neetCode150/TwoIntegerSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode150/TwoIntegerSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/neetCode150/TwoIntegerSumII.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode150/TwoIntegerSumII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/neetCode150/ValidateParentheses.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode150/ValidateParentheses.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/neetCode150/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode150/main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,12 +29,12 @@
     &quot;assignee&quot;: &quot;Kevin-Bonilla&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Kevin-Bonilla/neetcode.git",
-    "accountId": "782b8cf5-2dc6-4ab5-9e39-f2179ba3e0e1"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Kevin-Bonilla/neetcode.git&quot;,
+    &quot;accountId&quot;: &quot;782b8cf5-2dc6-4ab5-9e39-f2179ba3e0e1&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -73,19 +43,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.main.executor&quot;: &quot;Debug&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;delta&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/kevinbonilla/Documents/GitHub/neetcode&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.main.executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "delta",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/kevinbonilla/Documents/GitHub/neetcode",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\kevin\git\neetcode\src" />
@@ -215,7 +186,23 @@
       <option name="project" value="LOCAL" />
       <updated>1766111159602</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="changing directories of neetcode150">
+      <option name="closed" value="true" />
+      <created>1768103758202</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1768103758202</updated>
+    </task>
+    <task id="LOCAL-00014" summary="removeElement java solution">
+      <option name="closed" value="true" />
+      <created>1768103774413</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1768103774413</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -230,7 +217,9 @@
     <MESSAGE value="Starting on insertion sort solution" />
     <MESSAGE value="ConcatenationOfArray solution added and package renamed" />
     <MESSAGE value="LongestCommonPrefix solution WIP" />
-    <option name="LAST_COMMIT_MESSAGE" value="LongestCommonPrefix solution WIP" />
+    <MESSAGE value="changing directories of neetcode150" />
+    <MESSAGE value="removeElement java solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="removeElement java solution" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
