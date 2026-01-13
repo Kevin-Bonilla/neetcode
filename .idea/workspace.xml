@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="414ea679-8d16-4b6c-a2b5-aee6463f59ef" name="Changes" comment="most optimal solution added for majority element">
-      <change afterPath="$PROJECT_DIR$/src/neetCode250/DesignHashset.java" afterDir="false" />
+    <list default="true" id="414ea679-8d16-4b6c-a2b5-aee6463f59ef" name="Changes" comment="design hashset wip setup">
+      <change afterPath="$PROJECT_DIR$/src/neetCode250/ReverseString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/neetCode250/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode250/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,7 +219,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768161421605</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="design hashset wip setup">
+      <option name="closed" value="true" />
+      <created>1768271258241</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1768271258241</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -237,7 +246,8 @@
     <MESSAGE value="removeElement java solution" />
     <MESSAGE value="solution to MajorityElement problem" />
     <MESSAGE value="most optimal solution added for majority element" />
-    <option name="LAST_COMMIT_MESSAGE" value="most optimal solution added for majority element" />
+    <MESSAGE value="design hashset wip setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="design hashset wip setup" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -246,11 +256,6 @@
           <url>file://$PROJECT_DIR$/src/neetCode250/ValidSudoku.java</url>
           <line>124</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/neetCode250/main.java</url>
-          <line>39</line>
-          <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/neetCode250/ValidSudoku.java</url>
