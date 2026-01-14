@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="414ea679-8d16-4b6c-a2b5-aee6463f59ef" name="Changes" comment="ReverseString solution added">
-      <change beforePath="$PROJECT_DIR$/src/neetCode250/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode250/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/neetCode250/ValidPalindromeII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/neetCode250/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetCode250/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,12 +30,12 @@
     &quot;assignee&quot;: &quot;Kevin-Bonilla&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Kevin-Bonilla/neetcode.git&quot;,
-    &quot;accountId&quot;: &quot;782b8cf5-2dc6-4ab5-9e39-f2179ba3e0e1&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Kevin-Bonilla/neetcode.git",
+    "accountId": "1f328656-ef34-4a88-9fae-c3be93d38e20"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -270,9 +272,9 @@
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/neetCode250/ReverseString.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="7" />
+          <url>file://$PROJECT_DIR$/src/neetCode250/ValidPalindromeII.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

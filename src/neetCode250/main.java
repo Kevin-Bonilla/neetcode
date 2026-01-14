@@ -43,5 +43,9 @@ public class main {
         char[] s = {'x', 'y'};
         reverseString.reverseString(s);
 
+        // testing Valid Palindrome II
+        ValidPalindromeII validPalindromeII = new ValidPalindromeII();
+        validPalindromeII.validPalindrome("aguokepatgbnvfqmgmlcupuufxoohdfpgjdmysgvhmvffcnqxjjxqncffvmhvgsymdjgpfdhooxfuupuculmgmqfvnbgtapekouga");
+
     }
 }
