@@ -40,6 +40,12 @@ Constraints:
 public class MergeSortedArray {
 
     public void merge(int[] nums1, int m, int[] nums2, int n) {
+        //nums1 is our big array that everything needs to be sorted into
+        //nums 2 is our small array that everything needs to be added into nums1 and sorted
+        // m is our valid amount of elements in nums1
+        // n is our amount of elements in nums2
+
+        // this is a two pointer problem so we should think of it in that way
 
     }
 
