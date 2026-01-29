@@ -72,13 +72,18 @@ public class MergeSortedArray {
                 nums1[writePos] = num1Digit;
                 num1Pointer--;
             }
-
+            writePos--;
         }
 
         // if num2Pointer is not at 0 by the time we go through num1Pointer, then we just copy the rest of num2s digits
         // if num2Pointer goes to -1 and we still haven't traversed through num1, its fine because we are already sorted at that point
-
-
+        if (num2Pointer >= 0){
+            while (writePos >= 0 && num2Pointer >= 0){
+                nums1[writePos] = nums2[num2Pointer];
+                writePos--;
+                num2Pointer--;
+            }
+        }
 
     }
 

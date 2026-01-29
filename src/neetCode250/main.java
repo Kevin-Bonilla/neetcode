@@ -39,13 +39,20 @@ public class main {
 //        ValidSudoku validSudokuClass = new ValidSudoku();
 //        boolean isValid = validSudokuClass.isValidSudoku(board);
 
-        ReverseString reverseString = new ReverseString();
-        char[] s = {'x', 'y'};
-        reverseString.reverseString(s);
+//        ReverseString reverseString = new ReverseString();
+//        char[] s = {'x', 'y'};
+//        reverseString.reverseString(s);
+//
+//        // testing Valid Palindrome II
+//        ValidPalindromeII validPalindromeII = new ValidPalindromeII();
+//        validPalindromeII.validPalindrome("aguokepatgbnvfqmgmlcupuufxoohdfpgjdmysgvhmvffcnqxjjxqncffvmhvgsymdjgpfdhooxfuupuculmgmqfvnbgtapekouga");
 
-        // testing Valid Palindrome II
-        ValidPalindromeII validPalindromeII = new ValidPalindromeII();
-        validPalindromeII.validPalindrome("aguokepatgbnvfqmgmlcupuufxoohdfpgjdmysgvhmvffcnqxjjxqncffvmhvgsymdjgpfdhooxfuupuculmgmqfvnbgtapekouga");
+        MergeSortedArray msa = new MergeSortedArray();
+        int[] nums1 = {10, 20, 20, 40, 0, 0};
+        int m = 4;
+        int[] nums2 = {1, 2};
+        int n = 2;
+        msa.merge(nums1, m, nums2, n);
 
     }
 }
