@@ -29,6 +29,15 @@ Example 2:
 Input: nums = [2,10,10,30,30,30]
 
 Output: [2,10,30]
+
+Explanation: You should return k = 3 as we have three unique elements.
+
+Constraints:
+
+    1 <= nums.length <= 30,000
+    -100 <= nums[i] <= 100
+    nums is sorted in non-decreasing order.
+
  */
 
 public class RemoveDuplicatesFromSortedArray {
@@ -39,10 +48,22 @@ public class RemoveDuplicatesFromSortedArray {
         // we don't need to resize the array or anything, we just need to sort them in the first k elements of nums
         // this is a two pointer problem
 
-        int uniqueElements = 0;
+        int uniqueElements = 1;
 
         // we are going to use two pointers here: slowPointer and fastPointer
-        // slowPointer will be our write position, and fastPointer will be where we are analyzing elements
+        // slowPointer will be our write position, and fastPointer will be where we are analyzing elements and looking for unique elements
+
+        int slowPointer = 0;
+        int fastPointer = 0;
+
+        // base case where array is only 1 so we will only ever have 1 unique element
+        if (nums.length == 1){
+            return uniqueElements;
+        }
+
+        while (fastPointer < nums.length){
+
+        }
 
 
 
