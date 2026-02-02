@@ -53,8 +53,8 @@ public class RemoveDuplicatesFromSortedArray {
         // we are going to use two pointers here: slowPointer and fastPointer
         // slowPointer will be our write position, and fastPointer will be where we are analyzing elements and looking for unique elements
 
-        int slowPointer = 0;
-        int fastPointer = 0;
+        int slowPointer = 1;
+        int fastPointer = 1;
 
         // base case where array is only 1 so we will only ever have 1 unique element
         if (nums.length == 1){
@@ -63,11 +63,20 @@ public class RemoveDuplicatesFromSortedArray {
 
         while (fastPointer < nums.length){
 
+            if (nums[fastPointer] != nums[fastPointer-1]){
+                // if element at fastPointer is not a duplicate of the element before it then we will write it at our slowPointer(write pos)
+                nums[slowPointer] = nums[fastPointer];
+                // we increment slowPointer because we wrote here
+                slowPointer++;
+            }
+
+            // we always update fastPointer
+            fastPointer++;
         }
 
 
 
-        return uniqueElements;
+        return slowPointer;
     }
 
 }
