@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="414ea679-8d16-4b6c-a2b5-aee6463f59ef" name="Changes" comment="MergeSortedArray solution completed and debuged">
-      <change afterPath="$PROJECT_DIR$/src/neetCode250/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
+    <list default="true" id="414ea679-8d16-4b6c-a2b5-aee6463f59ef" name="Changes" comment="RemoveDuplicatesFromSortedArray Solution finished">
+      <change afterPath="$PROJECT_DIR$/src/neetCode250/ContainsDuplicateII.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -281,7 +281,31 @@
       <option name="project" value="LOCAL" />
       <updated>1769648824293</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="RemoveDuplicatesFromSortedArray Solution WIP">
+      <option name="closed" value="true" />
+      <created>1769649760235</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1769649760235</updated>
+    </task>
+    <task id="LOCAL-00026" summary="RemoveDuplicatesFromSortedArray Solution WIP 2">
+      <option name="closed" value="true" />
+      <created>1769650058326</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1769650058326</updated>
+    </task>
+    <task id="LOCAL-00027" summary="RemoveDuplicatesFromSortedArray Solution finished">
+      <option name="closed" value="true" />
+      <created>1769993619173</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1769993619173</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -307,7 +331,10 @@
     <MESSAGE value="MergeSortedArray solution wip" />
     <MESSAGE value="MergeSortedArray solution wip 2" />
     <MESSAGE value="MergeSortedArray solution completed and debuged" />
-    <option name="LAST_COMMIT_MESSAGE" value="MergeSortedArray solution completed and debuged" />
+    <MESSAGE value="RemoveDuplicatesFromSortedArray Solution WIP" />
+    <MESSAGE value="RemoveDuplicatesFromSortedArray Solution WIP 2" />
+    <MESSAGE value="RemoveDuplicatesFromSortedArray Solution finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="RemoveDuplicatesFromSortedArray Solution finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
