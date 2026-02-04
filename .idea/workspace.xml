@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="414ea679-8d16-4b6c-a2b5-aee6463f59ef" name="Changes" comment="RemoveDuplicatesFromSortedArray Solution finished">
-      <change afterPath="$PROJECT_DIR$/src/neetCode250/ContainsDuplicateII.java" afterDir="false" />
+    <list default="true" id="414ea679-8d16-4b6c-a2b5-aee6463f59ef" name="Changes" comment="ContainsDuplicateII Solution Completed">
+      <change afterPath="$PROJECT_DIR$/src/neetCode250/SearchInsertPosition.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -305,12 +305,26 @@
       <option name="project" value="LOCAL" />
       <updated>1769993619173</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="ContainsDuplicateII Solution WIP">
+      <option name="closed" value="true" />
+      <created>1769993772474</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1769993772474</updated>
+    </task>
+    <task id="LOCAL-00029" summary="ContainsDuplicateII Solution Completed">
+      <option name="closed" value="true" />
+      <created>1769995041134</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1769995041134</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ProductsOfArrayExceptSelf solution added" />
-    <MESSAGE value="ValidSudoku solution WIP" />
     <MESSAGE value="ValidSudoku solution WIP pt2" />
     <MESSAGE value="ValidSudoku solution finished" />
     <MESSAGE value="Design Dynamic Array solution added" />
@@ -334,7 +348,9 @@
     <MESSAGE value="RemoveDuplicatesFromSortedArray Solution WIP" />
     <MESSAGE value="RemoveDuplicatesFromSortedArray Solution WIP 2" />
     <MESSAGE value="RemoveDuplicatesFromSortedArray Solution finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="RemoveDuplicatesFromSortedArray Solution finished" />
+    <MESSAGE value="ContainsDuplicateII Solution WIP" />
+    <MESSAGE value="ContainsDuplicateII Solution Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="ContainsDuplicateII Solution Completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
