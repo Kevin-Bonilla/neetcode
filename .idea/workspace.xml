@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="414ea679-8d16-4b6c-a2b5-aee6463f59ef" name="Changes" comment="SortAnArray solution">
-      <change afterPath="$PROJECT_DIR$/src/neetCode250/SortColors.java" afterDir="false" />
+    <list default="true" id="414ea679-8d16-4b6c-a2b5-aee6463f59ef" name="Changes" comment="SortColors Solution added">
+      <change afterPath="$PROJECT_DIR$/src/neetCode250/LongestConsecutiveSequence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -346,11 +346,18 @@
       <option name="project" value="LOCAL" />
       <updated>1770957464751</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="SortColors Solution added">
+      <option name="closed" value="true" />
+      <created>1771445251319</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1771445251319</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Design singly linked list problem WIP" />
     <MESSAGE value="Design singly linked list problem WIP pt 2 maybe" />
     <MESSAGE value="Design singly linked list problem solution and submitted" />
     <MESSAGE value="Starting on insertion sort solution" />
@@ -375,7 +382,8 @@
     <MESSAGE value="Search Insert Position Solution added" />
     <MESSAGE value="SquareRoot solution" />
     <MESSAGE value="SortAnArray solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="SortAnArray solution" />
+    <MESSAGE value="SortColors Solution added" />
+    <option name="LAST_COMMIT_MESSAGE" value="SortColors Solution added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
