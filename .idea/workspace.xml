@@ -4,14 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="414ea679-8d16-4b6c-a2b5-aee6463f59ef" name="Changes" comment="SortColors Solution added">
-      <change afterPath="$PROJECT_DIR$/src/neetCode250/LongestConsecutiveSequence.java" afterDir="false" />
+    <list default="true" id="414ea679-8d16-4b6c-a2b5-aee6463f59ef" name="Changes" comment="LongestConsecutiveSequence solution added">
+      <change afterPath="$PROJECT_DIR$/src/neetCode250/MajorityElementII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_/Users/kevinbonilla/Documents/GitHub/neetcode" value="36JPSxXDAI7P5eieOPPl0XUzBwq" />
+    </persistenceIdMap>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -354,11 +359,18 @@
       <option name="project" value="LOCAL" />
       <updated>1771445251319</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="LongestConsecutiveSequence solution added">
+      <option name="closed" value="true" />
+      <created>1771618741401</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1771618741401</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Design singly linked list problem WIP pt 2 maybe" />
     <MESSAGE value="Design singly linked list problem solution and submitted" />
     <MESSAGE value="Starting on insertion sort solution" />
     <MESSAGE value="ConcatenationOfArray solution added and package renamed" />
@@ -383,7 +395,8 @@
     <MESSAGE value="SquareRoot solution" />
     <MESSAGE value="SortAnArray solution" />
     <MESSAGE value="SortColors Solution added" />
-    <option name="LAST_COMMIT_MESSAGE" value="SortColors Solution added" />
+    <MESSAGE value="LongestConsecutiveSequence solution added" />
+    <option name="LAST_COMMIT_MESSAGE" value="LongestConsecutiveSequence solution added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
